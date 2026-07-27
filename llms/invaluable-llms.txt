@@ -1,0 +1,28 @@
+# Invaluable
+
+> Invaluable is the world's leading online marketplace for fine art, antiques and collectibles (founded 1986). It aggregates live and timed auctions from 5,000+ premier auction houses across 53 countries, listing 260,000+ items and an archive of 66+ million price records. Invaluable also operates AuctionZip and a Private Label / Connect white-label platform, and exposes a partner-only Catalog Upload API for auction-management software vendors. Backed by Insight Partners.
+
+## About
+- [Invaluable website](http://www.invaluable.com/): The online auction marketplace for art, antiques and collectibles.
+- [About Invaluable](https://www.invaluable.com/inv/about-us/): Company overview, scale, and mission.
+- [Sell with Invaluable](https://www.invaluable.com/inv/sell-with-invaluable/): For auction houses listing on the marketplace.
+- [The Invaluable Advantage](https://www.invaluable.com/inv/advantage/home/): Solutions for auction-house partners.
+
+## APIs
+- [Catalog Upload API](https://www.invaluable.com/inv/apiinfo/): Partner-only API for auction-management software companies to add, edit, and delete lots in timed and live sales on Invaluable, AuctionZip and Private Label / Connect sites. Access is provisioned through Invaluable's software partners (e.g. Wavebid); onboarding includes sandbox mapping. No public OpenAPI specification, developer portal, or SDK is published.
+
+## Products
+- [Private Label plans](https://www.invaluable.com/inv/private-label/plans/): White-label auction platform pricing/tiers.
+- [Auctions](https://www.invaluable.com/auctions/): Live and timed auctions across the network.
+- [Artists database](https://www.invaluable.com/artists/): Reference database of artists.
+- [Price archive](https://www.invaluable.com/catalog/advancedSearch.cfm?srchScope=p): Historical realized-price archive.
+
+## Support & Docs
+- [Help & FAQ](https://www.invaluable.com/inv/help/): Buyer and seller help center.
+- [Blog](https://www.invaluable.com/blog/): Collector guides and auction news.
+- [GitHub organization](https://github.com/invaluable): Public engineering repositories (no client SDKs published).
+
+## Legal
+- [Terms of Use](https://www.invaluable.com/inv/agreements/terms-of-use/)
+- [Privacy Policy](https://www.invaluable.com/inv/agreements/privacy-policy/)
+- [GDPR information](https://www.invaluable.com/inv/gdpr/)

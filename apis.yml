@@ -1,8 +1,14 @@
 aid: invaluable
 name: Invaluable
-description: Invaluable is a company surfaced as a portfolio company of insight-partners and added to
-  the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Invaluable is the world's leading online marketplace for fine art, antiques and collectibles,
+  founded in 1986. The platform aggregates live and timed auctions from more than 5,000 premier
+  auction houses across 53 countries, giving collectors worldwide a single place to discover, bid on,
+  and win items — with over 260,000 items listed at any time and an archive of 66+ million price
+  records. Invaluable also operates AuctionZip and a Private Label / Connect white-label offering, and
+  provides a partner-only Catalog Upload API that lets auction-management software companies add, edit,
+  and delete lots in timed and live sales directly from their own systems. The company is backed by
+  Insight Partners.
 url: https://raw.githubusercontent.com/api-evangelist/invaluable/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,11 +16,30 @@ x-backed-by:
 - insight-partners
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.invaluable.com/inv/about-us/wp-content/uploads/sites/64/2020/09/INV-White.png
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Auctions
+- Marketplace
+- Art
+- Antiques
+- Collectibles
+- E-Commerce
+- Bidding
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +49,26 @@ maintainers:
 common:
 - type: Website
   url: http://www.invaluable.com/
+- type: APIReference
+  url: https://www.invaluable.com/inv/apiinfo/
+- type: Support
+  url: https://www.invaluable.com/inv/help/
+- type: Blog
+  url: https://www.invaluable.com/blog/
+- type: GitHubOrganization
+  url: https://github.com/invaluable
+- type: Pricing
+  url: https://www.invaluable.com/inv/private-label/plans/
+- type: TermsOfService
+  url: https://www.invaluable.com/inv/agreements/terms-of-use/
+- type: PrivacyPolicy
+  url: https://www.invaluable.com/inv/agreements/privacy-policy/
+- type: LLMsTxt
+  url: llms/invaluable-llms.txt
+- type: DomainSecurity
+  url: security/invaluable-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
